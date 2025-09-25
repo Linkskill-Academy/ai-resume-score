@@ -2,6 +2,7 @@
 # LinkSkill Academy — AI Resume Score QR Booth (Streamlit)
 # Run locally:  streamlit run ai_resume_score_app.py
 
+import os
 import io
 import re
 import time
